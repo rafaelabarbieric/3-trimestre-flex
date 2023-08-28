@@ -1,0 +1,9 @@
+.header {
+    background-color: #FF93DA;
+    color: aliceblue;
+    text-align: center;
+    padding: 1rem;
+}
+.flex-container{
+    display: flex;
+}
